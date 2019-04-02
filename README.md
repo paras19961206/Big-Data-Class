@@ -1,3 +1,3 @@
 # Big-Data-Class
 
-This file has all the codes that I have created in my big data class. Please use jupyter notebook to compile the .ipynb files
+These are all the codes that I had written in my my big data class. Also, all the codes are required to run the programs are also specified in this program. 
